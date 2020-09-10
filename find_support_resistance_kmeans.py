@@ -1,3 +1,7 @@
+"""
+https://www.github.com/judopro
+https://www.medium.com/@judopro
+"""
 import datetime
 import pytz
 from sklearn.cluster import KMeans
